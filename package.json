@@ -27,7 +27,7 @@
         "node": ">=0.4.2"
     },
 	"dependencies": {
-		"clean-css": "^3.0.1"
+		"clean-css": "^3.4.12"
 	},
     "devDependencies": {
     },
