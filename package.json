@@ -16,24 +16,17 @@
         "type": "git",
         "url": "https://github.com/less/less-plugin-clean-css.git"
     },
-    "licenses": [
-        {
-            "type": "Apache v2",
-            "url": "https://github.com/less/less-plugin-clean-css/blob/master/LICENSE"
-        }
-    ],
+    "license": "Apache-2.0",
     "main": "lib/index.js",
     "engines": {
         "node": ">=0.4.2"
     },
-	"dependencies": {
-		"clean-css": "^3.4.12"
-	},
-    "devDependencies": {
+    "dependencies": {
+        "clean-css": "^3.4.12"
     },
     "keywords": [
         "less plugins",
         "cleancss",
-		"less compression"
+	"less compression"
     ]
 }
