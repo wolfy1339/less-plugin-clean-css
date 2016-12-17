@@ -22,7 +22,7 @@
         "node": ">=0.4.2"
     },
     "dependencies": {
-        "clean-css": "^3.4.12"
+        "clean-css": "^3.4.22"
     },
     "keywords": [
         "less plugins",
