@@ -1,32 +1,32 @@
 {
-    "name": "less-plugin-clean-css",
-    "version": "1.5.1",
-    "description": "clean-css plugin for less.js",
-    "homepage": "http://lesscss.org",
-    "author": {
-        "name": "Luke Page"
-    },
-    "contributors": [
-        "The Core Less Team"
-    ],
-    "bugs": {
-        "url": "https://github.com/less/less-plugin-clean-css/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/less/less-plugin-clean-css.git"
-    },
-    "license": "Apache-2.0",
-    "main": "lib/index.js",
-    "engines": {
-        "node": ">=0.4.2"
-    },
-    "dependencies": {
-        "clean-css": "^3.4.22"
-    },
-    "keywords": [
-        "less plugins",
-        "cleancss",
-	"less compression"
-    ]
+  "name": "less-plugin-clean-css",
+  "version": "1.5.1",
+  "description": "clean-css plugin for less.js",
+  "homepage": "http://lesscss.org",
+  "author": {
+    "name": "Luke Page"
+  },
+  "contributors": [
+    "The Core Less Team"
+  ],
+  "bugs": {
+    "url": "https://github.com/less/less-plugin-clean-css/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/less/less-plugin-clean-css.git"
+  },
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "dependencies": {
+    "clean-css": "^4.1.11"
+  },
+  "keywords": [
+    "less plugins",
+    "cleancss",
+    "less compression"
+  ]
 }
